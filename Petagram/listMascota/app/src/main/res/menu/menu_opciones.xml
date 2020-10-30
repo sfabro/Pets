@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mAcerca"
+        android:title="@string/app_Acerca"
+        android:orderInCategory="100">Acerca De </item>
+    <item android:id="@+id/mContacto"
+        android:title="@string/app_Contacto"
+        android:orderInCategory="101">Contacto </item>
+</menu>
